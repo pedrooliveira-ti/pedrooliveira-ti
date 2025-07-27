@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Pedro H. | Fullstack Developer & Cybersecurity Enthusiast</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="150"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2l1NjJwbTZnaDhkNG5mbmZvOHhhYnhpbTY4Y2Y1cTN4aGc3NWIwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="150"/>
 </p>
 
 <p align="center">
