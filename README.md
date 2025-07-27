@@ -42,7 +42,8 @@
 
 ### 🐍 &nbsp;Snake Animation (commit graph)
 
-![snake gif](https://github.com/pedrooliveira-ti/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/pedrooliveira-ti/pedrooliveira-ti/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
