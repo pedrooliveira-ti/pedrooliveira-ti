@@ -40,12 +40,6 @@
 
 ---
 
-### 🐍
-
-
-![snake gif](https://github.com/pedrooliveira-ti/pedrooliveira-ti/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ### 📫 &nbsp;Contatos
 
@@ -61,5 +55,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="300">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Q1eWZ6b2FscXRzc2Fzb216MzNwbHd0NWI1OXh5ZGU1dWJkbXZ2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pYNhxuY2Xx528/giphy.gif" width="300">
 </p>
